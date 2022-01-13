@@ -1,3 +1,5 @@
+[Lab Report 1](https://codyprupp.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 hello
 
 _italics_

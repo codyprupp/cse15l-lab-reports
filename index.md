@@ -10,7 +10,7 @@ _italics_
 
 [google](google.com)
 
-![very cool image](flushed-emoji.jfif)
+![very cool image](https://cdn.shopify.com/s/files/1/1061/1924/products/Flushed_Emoji_Icon_5e6ce936-4add-472b-96ba-9082998adcf7_grande.png?v=1542446803)
 
 > idk what a blockquote is but it looks like this
 

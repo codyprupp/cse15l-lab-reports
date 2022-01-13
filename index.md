@@ -1,7 +1,11 @@
 hello
 
 _italics_
+
+# here is some new text i added from vscode :)
+
 *also italics*
+
 **bold**
 
 # this is a heading

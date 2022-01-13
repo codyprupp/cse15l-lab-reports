@@ -8,7 +8,7 @@ _italics_
 
 ## this is another heading
 
-[google](google.com)
+[google](https://www.google.com/)
 
 ![very cool image](https://cdn.shopify.com/s/files/1/1061/1924/products/Flushed_Emoji_Icon_5e6ce936-4add-472b-96ba-9082998adcf7_grande.png?v=1542446803)
 

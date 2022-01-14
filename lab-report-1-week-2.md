@@ -14,7 +14,7 @@
 
 ### Step 2: Remotely Connecting
 
-![Step 2 Image](cse15l-lab-report-1-step-2-2.png)
+![Step 2 Image](cse15l-lab-report-1-step-2-2.PNG)
 
 - If your computer runs on Windows, you will first need to install OpenSSH by following the steps on [this website](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). You will only need to complete the section titled "Install OpenSSH using Windows Settings".
 
@@ -26,13 +26,13 @@
 
 - Enter the command `ssh \<your ETS account>@ieng6.ucsd.edu` , and replace \<your ETS account> with the account number that you found earlier that looks something like "cs15lwi22hdf". You may get a message asking if you are sure you want to connect; type yes and press enter to continue. This happens only when you log in for the first time.
 
-- Enter your password into the terminal, and the output should look something like this: ![Step 2](cse15l-lab-report-1-step-2.png)
+- Enter your password into the terminal, and the output should look something like this: ![Step 2](cse15l-lab-report-1-step-2.PNG)
 
 - Your terminal is now remotely connected to one of the computers in the CSE basement, meaning you can run commands on that computer just like you would on your own computer.
 
 ### Step 3: Trying Some Commands
 
-![Step 3 Image](cse15l-lab-report-1-step-3.png)
+![Step 3 Image](cse15l-lab-report-1-step-3.PNG)
 
 - Try running some of the following commands in the terminal, and taking note of what they do:
 
@@ -49,7 +49,7 @@
 
 ### Step 4: Moving Files With scp
 
-![Step 4 Image](cse15l-lab-report-1-step-4.png)
+![Step 4 Image](cse15l-lab-report-1-step-4.PNG)
 
 - The `scp` terminal command is used to copy files between your local computer and the remote connection.
 
@@ -75,7 +75,7 @@
 
 ### Step 5: Setting an SSH Key
 
-![Step 5 Image](cse15l-lab-report-1-step-5.png)
+![Step 5 Image](cse15l-lab-report-1-step-5.PNG)
 
 - In order to save time by not entering your password every time you log in to ssh, you can create an ssh key that is shared between your computer and the remote connection.
 
@@ -111,7 +111,7 @@
 
 ### Step 6: Optimizing Remote Running
 
-![Step 6 Image](cse15l-lab-report-1-step-6.png)
+![Step 6 Image](cse15l-lab-report-1-step-6.PNG)
 
 - Now that you have set up an ssh key, connecting to `ieng6` is a lot quicker and easier. However, you can make your work even faster using the following tricks.
 

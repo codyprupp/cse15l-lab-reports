@@ -3,7 +3,7 @@
 
 ### Step 1: Install Visual Studio Code
 
-![Step 1 Image](cse15l-lab-report-1-step-1.png)
+![Image](cse15l-lab-report-1-step-1)
 
 - On the [Visual Studio Code Website](https://code.visualstudio.com/), press the button to download the program on your computer.
 

@@ -121,6 +121,6 @@
 
 - One way to combine these two skills is with the command `ssh cs15lwi22@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"; javac WhereAmI.java; java WhereAmI` . This will show you the information about the remote connection and then information about your computer, just like you did earlier, but all in one line.
 
-- If you wanted to make a local edit to WhereAmI.java, copy it to the remote server, and run it, you could do all that with the following command: `scp WhereAmI.java cs15lwi22@ieng6.ucsd.edu:~/; ssh cs15lwi22@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"
+- If you wanted to make a local edit to WhereAmI.java, copy it to the remote server, and run it, you could do all that with the following command: `scp WhereAmI.java cs15lwi22@ieng6.ucsd.edu:~/; ssh cs15lwi22@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`
 
 - If you copy that command (CTRL + C), paste it in the terminal (CTRL + V), and press enter, you can update the file in the remote server, log in, compile the file, and run it in just 5 keystrokes!
